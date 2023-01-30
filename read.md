@@ -1,2 +1,2 @@
 # Step by Step
-![](../img/IMG_6683.jpg)
+![](img/IMG_6652.jpg)
