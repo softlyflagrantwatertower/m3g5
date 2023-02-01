@@ -7,7 +7,7 @@
 ### equivalents to these "through hole" components are available in "surface mount" versions, but they're more expensive in that format (sometimes much more expensive). so it's cheaper use the "through hole" version and to pay someone to solder them.
 ###
 # Step by Step
-### first, use a black sharpie to cross out the text "jan2020".
+### first, use a black sharpie to cross out the text "jan2020" at the bottom edge of the PCB.
 ### use a single stroke to create a clear black bar:
 ![](img/IMG_6652_c.jpg)
 ###
