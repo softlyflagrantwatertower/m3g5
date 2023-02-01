@@ -5,7 +5,7 @@
 # Step by Step
 ### first, use a black sharpie to cross out the text "jan2020" at the bottom edge of the PCB.
 ### use a single stroke to create a clear black bar:
-![](img/IMG_6652_c.jpg)
+![](img/IMG_6652_c.jpg | width=100)
 ## JST 2.0mm 2-pin connector:
 ### (these are used to connect the DC power jack and the footswitch).
 ![](img/IMG_6654_c.jpg)
