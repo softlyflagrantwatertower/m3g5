@@ -14,14 +14,17 @@
 ### JST 2.0mm 2-pin connector:
 ![](img/IMG_6654_c.jpg)
 ### (these are used to connect the DC power jack and the footswitch)
-###
+
+
 ### film box cap: 0.1uF (100nF):
 ![](img/IMG_6657_c.jpg)
 ### ONLY on C7, bend leads down before soldering (this prevents them from touching the switch that will be soldered above them).
-###
+
+
 ### 100nF populated:
 ![](img/IMG_6659_c.jpg)
-###
+
+
 ### film box cap: 2.2nF (2200pF):
 ![](img/IMG_6660_c.jpg)
 ###
@@ -31,7 +34,7 @@
 ###
 ### trimpot: 10k ohmomo (103):
 ![](img/IMG_6667_c.jpg)
-### if this won't stay in place easily, you can solder it before the caps.
+### if the trimpot won't stay in place easily, you can solder it before the caps.
 ###
 ### pin header: 2.54mm 3-pin:
 ![](img/IMG_6671_c.jpg)
